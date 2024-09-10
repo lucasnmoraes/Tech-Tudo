@@ -1,4 +1,4 @@
-### **Tech-Tudo - Imersão DEV com Google Gemini**
+### **Tech-Tudo Eletrônicos - Imersão DEV com Google Gemini**
 
 **O que é?**
 
