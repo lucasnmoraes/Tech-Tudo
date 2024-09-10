@@ -1,4 +1,4 @@
-### **Tech-Tudo: Projeto feito no curso Imersão DEV com Google Gemini**
+### **Tech-Tudo - Imersão DEV com Google Gemini**
 
 **O que é?**
 
